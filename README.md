@@ -1,18 +1,23 @@
-## Hi there 👋
+## Hi there 👋[![](https://visitcount.itsvg.in/api?id=AbidemiDataDriving&icon=0&color=4)](https://visitcount.itsvg.in)
 
 
 **AbidemiDataDriving/AbidemiDataDriving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-*My name is *ABIDEMI AVOSEH, and I am currently based in Lagos, Nigeria*
-- 🔭 *I am proficient in utilizing various programming languages and tools such as Python, R, SQL, Power BI, and Tableau to extract, analyze, and visualize data effectively. My experience includes working on diverse projects ranging from predictive modeling to natural language processing, demonstrating my versatility and ability to adapt to data-driven challenges. I am eager to apply my skills and knowledge to contribute meaningfully to innovative projects and drive data-informed decision-making processes*
-- 🌱 I’m currently learning *Data Science, Database management, Data Visualisations, Python engineering, Machine learning Engineering, Computer Vision, deep learning and Natural Language Processing*
-- 👯 I’m looking to collaborate *on machine learning engineering in health, banking, and finance respectively*
-- 🤔 I’m looking for help *with suitable work that will eventually foster and advance my learning and technical skills*
-- 💬 Ask me about *Technology and Personal Development*
+- 🔭 I'm currently working on **Machine learning, deep learning, computer vision, and NLP Projects**
+- 🌱 I’m currently learning **Data Science, Database management, Data Visualisations, Python engineering, Machine learning Engineering, Computer Vision, deep learning and Natural Language Processing**
+- 👯 I’m looking to collaborate on **machine learning engineering in health, banking, and finance respectively**
+- 🤔 I’m looking for help on **suitable work that will eventually foster and advance my learning and technical skills***
+- 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me🎧+2347030045760, aavoseh@gmail.com
-- 😄 Pronouns: *he/him*
-- ⚡ Fun fact: *virtual games, watching movies and reading novels*
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **virtual games, watching movies and reading novels**
 
+## About Me
+**My name is ABIDEMI AVOSEH, and I am currently based in Lagos, Nigeria**
+
+ **I am proficient in utilizing various programming languages and tools such as Python, R, SQL, Power BI, and Tableau to extract, analyze, and visualize data effectively. My experience includes working on diverse projects ranging from predictive modeling to natural language processing, demonstrating my versatility and ability to adapt to data-driven challenges. I am eager to apply my skills and knowledge to contribute meaningfully to innovative projects and drive data-informed decision-making processes.** 
+ 
+**Driving innovation at the intersection of data science, Artificial intelligence, and Machine Learning engineering, with a passion for transforming industries in health, banking & finance**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@abidemi_greatman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abidemi-avoseh-811b7615a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aavoseh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@avoseh_emma) 
@@ -26,6 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidemiDataDriving&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbidemiDataDriving&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
