@@ -2,11 +2,16 @@
 
 
 **AbidemiDataDriving/AbidemiDataDriving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Professional Background 
 **Data Scientist/Machine Learning Engineer**
+## About Me
+**My name is ABIDEMI AVOSEH, and I am currently based in Lagos, Nigeria**
 
-## Personal Background 
+ **I am proficient in utilizing various programming languages and tools such as Python, R, SQL, Power BI, and Tableau to extract, analyze, and visualize data effectively. My experience includes working on diverse projects ranging from predictive modeling to natural language processing, demonstrating my versatility and ability to adapt to data-driven challenges. I am eager to apply my skills and knowledge to contribute meaningfully to innovative projects and drive data-informed decision-making processes.** 
+ 
+**Driving innovation at the intersection of data science, Artificial intelligence, and Machine Learning engineering, with a passion for transforming industries in health, banking & finance**
+
+## Personal Details 
 - 🔭 I'm currently working on **Machine learning, deep learning, computer vision, and NLP Projects**
 - 🌱 I’m currently learning **Data Science, Database management, Data Visualisations, Python engineering, Machine learning Engineering, Computer Vision, deep learning and Natural Language Processing**
 - 👯 I’m looking to collaborate on **machine learning engineering in health, banking, and finance respectively**
@@ -16,12 +21,7 @@
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **virtual games, watching movies and reading novels**
 
-## About Me
-**My name is ABIDEMI AVOSEH, and I am currently based in Lagos, Nigeria**
 
- **I am proficient in utilizing various programming languages and tools such as Python, R, SQL, Power BI, and Tableau to extract, analyze, and visualize data effectively. My experience includes working on diverse projects ranging from predictive modeling to natural language processing, demonstrating my versatility and ability to adapt to data-driven challenges. I am eager to apply my skills and knowledge to contribute meaningfully to innovative projects and drive data-informed decision-making processes.** 
- 
-**Driving innovation at the intersection of data science, Artificial intelligence, and Machine Learning engineering, with a passion for transforming industries in health, banking & finance**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@abidemi_greatman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abidemi-avoseh-811b7615a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aavoseh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@avoseh_emma) 
