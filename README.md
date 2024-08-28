@@ -13,9 +13,9 @@
 
 ## Personal Details 
 - 🔭 I'm currently working on **Machine learning, deep learning, computer vision, and NLP Projects**
-- 🌱 I’m currently learning **Data Science, Database management, Data Visualisations, Python engineering, Machine learning Engineering, Computer Vision, deep learning and Natural Language Processing**
+- 🌱 I’m currently learning **Data Science, Database management, Data Visualisations, Python engineering, Machine learning Engineering, Computer Vision, deep learning, and Natural Language Processing**
 - 👯 I’m looking to collaborate on **machine learning engineering in health, banking, and finance respectively**
-- 🤔 I’m looking for help on **suitable work that will eventually foster and advance my learning and technical skills***
+- 🤔 I’m looking for help on **suitable work that will eventually foster and advance my learning and technical skills**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me🎧+2347030045760, aavoseh@gmail.com
 - 😄 Pronouns: **he/him**
