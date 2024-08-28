@@ -2,7 +2,7 @@
 
 
 **AbidemiDataDriving/AbidemiDataDriving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Professional Background 
+## Profession
 **Data Scientist/Machine Learning Engineer**
 ## About Me
 **My name is ABIDEMI AVOSEH, and I am currently based in Lagos, Nigeria**
