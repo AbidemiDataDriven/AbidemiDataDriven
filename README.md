@@ -1,4 +1,5 @@
 ## Hi there 👋[![](https://visitcount.itsvg.in/api?id=AbidemiDataDriving&icon=0&color=4)](https://visitcount.itsvg.in)
+![image](https://github.com/user-attachments/assets/e26b7662-b528-4234-80c4-5b1d691069e9)
 
 
 **AbidemiDataDriven/AbidemiDataDriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
