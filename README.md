@@ -9,9 +9,15 @@
 ## About Me
 **My name is ABIDEMI AVOSEH, and I am currently based in Lagos, Nigeria**
 
- **I am proficient in utilizing various programming languages and tools such as Python, R, SQL, Power BI, and Tableau to extract, analyze, and visualize data effectively. My experience includes working on diverse projects ranging from predictive modeling to natural language processing, demonstrating my versatility and ability to adapt to data-driven challenges. I am eager to apply my skills and knowledge to contribute meaningfully to innovative projects and drive data-informed decision-making processes.** 
- 
-**Driving innovation at the intersection of data science, Artificial intelligence, and Machine Learning engineering, with a passion for transforming industries in health, banking & finance**
+ **I am proficient in utilizing various programming languages and tools such as Python, databases, APIs, and web scraping, R, SQL, Power BI, and Tableau to extract, analyze, and visualize data effectively** 
+
+**My experience includes working on diverse projects ranging from predictive modeling to natural language processing, demonstrating my versatility and ability to adapt to data-driven challenges. I am eager to apply my skills and knowledge to contribute meaningfully to innovative projects and drive data-informed decision-making processes.**
+
+**Proven ability to solve real-world data challenges and a deep enthusiasm for contributing to innovative projects. Interested in collaborating with dynamic teams focused on data-driven decision-making and creating impactful solutions within leading organisations.**
+
+**Driving innovation at the intersection of data science, Artificial intelligence, and Machine Learning engineering, with a passion for transforming industries in health, banking & financial(FinTech)**
+
+**I'm eager to take my data science skills to the next level by delving into Bioinformatics Machine Learning Engineering, a cutting-edge field that combines machine learning, bioinformatics, and data science to unlock new insights and advances in biology, medicine, and healthcare.**
 
 ## 
 - 🔭 I'm currently working on **Machine learning, deep learning, computer vision, and NLP Projects**
