@@ -43,6 +43,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidemiDataDriven&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+![image](https://github.com/user-attachments/assets/d39515f5-deec-4c2b-9137-ec39fe42ca34)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
