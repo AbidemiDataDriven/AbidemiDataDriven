@@ -1,11 +1,8 @@
-## Hi there 👋[![](https://visitcount.itsvg.in/api?id=AbidemiDataDriven&icon=0&color=0)](https://visitcount.itsvg.in)
-![image](https://github.com/user-attachments/assets/e26b7662-b528-4234-80c4-5b1d691069e9)
+## Hi there 👋
 
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1cd0fe24-7d62-4256-836a-d5e515675028" />
 
-**AbidemiDataDriven/AbidemiDataDriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## 
-**DATA SCIENTIST|| MACHINE LEARNING ENGINEER|| AI ENGINEER**
-## 
+##                                              DATA SCIENTIST|| MACHINE LEARNING ENGINEER|| AI ENGINEER
 ## About Me
 **My name is ABIDEMI AVOSEH, and I am currently based in Lagos, Nigeria**
 
@@ -38,11 +35,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbidemiDataDriven&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-
-![image](https://github.com/user-attachments/assets/d39515f5-deec-4c2b-9137-ec39fe42ca34)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
