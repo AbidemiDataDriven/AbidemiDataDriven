@@ -1,31 +1,205 @@
-## Hi there 👋
 
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1cd0fe24-7d62-4256-836a-d5e515675028" />
-
-##                                              DATA SCIENTIST|| MACHINE LEARNING ENGINEER|| AI ENGINEER
 ## About Me
-**My name is ABIDEMI AVOSEH, and I am currently based in Lagos, Nigeria**
+# 👋 Hi, I'm Abidemi Avoseh
 
- **I am proficient in utilizing various programming languages and tools such as Python, databases, APIs, and web scraping, R, SQL, Power BI, and Tableau to extract, analyze, and visualize data effectively** 
+### Machine Learning Engineer | AI Engineer | MLOps | LLMOps
 
-**My experience includes working on diverse projects ranging from predictive modeling to natural language processing, demonstrating my versatility and ability to adapt to data-driven challenges. I am eager to apply my skills and knowledge to contribute meaningfully to innovative projects and drive data-informed decision-making processes.**
+I’m a **Machine Learning & AI Engineer** focused on building, deploying, and scaling practical AI systems that solve real-world problems.
 
-**Proven ability to solve real-world data challenges and a deep enthusiasm for contributing to innovative projects. Interested in collaborating with dynamic teams focused on data-driven decision-making and creating impactful solutions within leading organizations.**
+I’m interested in the engineering layer that transforms AI models from experiments into **reliable, reproducible, scalable, and production-ready systems**.
 
-**Driving innovation at the intersection of data science, Artificial intelligence, and Machine Learning engineering, with a passion for transforming industries in health, banking & financial(FinTech)**
+My work spans the complete AI lifecycle—from data preparation and model development to API integration, containerization, deployment, monitoring, and intelligent automation.
 
-**I'm eager to take my data science skills to the next level by delving into Bioinformatics Machine Learning Engineering, a cutting-edge field that combines machine learning, bioinformatics, and data science to unlock new insights and advances in biology, medicine, and healthcare.**
+---
+
+## 🧠 What I Build
+
+* 🤖 **Generative AI & Agentic Systems**
+* 🔎 **RAG & Knowledge-Based AI Applications**
+* 🧠 **Machine Learning & Deep Learning Systems**
+* 👁️ **Computer Vision Applications**
+* 💬 **NLP & Intelligent Automation**
+* ⚙️ **End-to-End MLOps Pipelines**
+* 🚀 **Production AI APIs & Model Serving**
+* ☁️ **Cloud-Native AI Infrastructure**
+
+---
+
+## 🛠️ Technical Stack
+
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+
+### Machine Learning & Deep Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+### AI Engineering & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+
+### MLOps, DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+
+---
+
+## 🚀 Featured Areas & Projects
+
+### 🏥 AI for Healthcare
+
+Building intelligent healthcare systems that combine machine learning with domain knowledge from my background in physiotherapy.
+
+**Areas of interest:**
+
+* AI-assisted movement and gait analysis
+* Healthcare conversational AI
+* Clinical decision-support systems
+* Patient-facing AI assistants
+* Physiotherapy and rehabilitation technology
+
+---
+
+### 🤖 Generative AI & AI Agents
+
+Developing AI applications using modern LLM architectures and agentic workflows.
+
+**Focus areas:**
+
+* Retrieval-Augmented Generation (RAG)
+* Tool-using AI agents
+* Multi-agent workflows
+* LangChain & LangGraph
+* LLM APIs
+* Structured AI workflows
+* AI automation
+
+---
+
+### ⚙️ Production Machine Learning
+
+I’m particularly interested in taking ML systems beyond notebooks.
+
+Typical architecture:
+
+```text
+Data
+  ↓
+Data Validation
+  ↓
+Feature Engineering
+  ↓
+Model Training
+  ↓
+Experiment Tracking
+  ↓
+Model Evaluation
+  ↓
+API / Model Serving
+  ↓
+Docker
+  ↓
+Cloud / Kubernetes
+  ↓
+Monitoring & Continuous Improvement
+```
+
+---
+
+## 🧩 My Engineering Philosophy
+
+> **A model is only as good as the system supporting it.**
+
+A high-performing model is not enough.
+
+I care about:
+
+* Reproducibility
+* Scalability
+* Reliability
+* Observability
+* Security
+* Maintainability
+* Deployment
+* Automation
+* Real-world business impact
+
+My goal is to bridge the gap between **AI research and production engineering**.
+
+---
+
+## 🌍 Domain Interests
+
+I’m particularly interested in applying AI to:
+
+🏥 Healthcare & Digital Health
+💳 FinTech & Banking
+🌍 Climate & Sustainability
+🏢 Enterprise Automation
+🤖 Intelligent Agents
+📊 Data-Driven Decision Systems
+
+---
+
+## 📚 Currently Learning & Building
+
+* Advanced **MLOps & LLMOps**
+* **Kubernetes & Cloud-Native AI**
+* Production-grade AI architectures
+* Agentic AI systems
+* Scalable model serving
+* AI workflow automation
+* End-to-end ML infrastructure
+
+---
+
+## 🎯 Career Focus
+
+I’m building toward roles where I can work across the intersection of:
+
+**Machine Learning + AI Engineering + MLOps + Cloud Infrastructure**
+
+I’m open to opportunities as a:
+
+* **Machine Learning Engineer**
+* **AI Engineer**
+* **Applied AI Engineer**
+* **MLOps Engineer**
+* **LLMOps Engineer**
+* **ML-focused Data Scientist**
+
+---
+
+## 🤝 Let's Connect
+
+---
+
+### 💡 Building AI systems that move from **research → engineering → production**.
+
 
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abidemi_avoseh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abidemi-avoseh-811b7615a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aavoseh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@avoseh_emma) 
 
-# 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbidemiDataDriven&theme=radical&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=AbidemiDataDriven&theme=radical&hide_border=false)                                         
-                                                                      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidemiDataDriven&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbidemiDataDriven&theme=radical&no-frame=false&no-bg=false&margin-w=4)
