@@ -1,4 +1,4 @@
-<img width="1398" height="350" alt="image" src="https://github.com/user-attachments/assets/0cabc926-baa0-481e-b44a-5d1234f3cf6e" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/0f946ca9-21fe-40f4-bf3f-bbca41667db7" />
 
 ## About Me
 # 👋 Hi, I'm Abidemi Avoseh
